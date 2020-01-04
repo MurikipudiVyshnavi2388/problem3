@@ -1,0 +1,15 @@
+# HTML
+# Archive your static HTML project and save it with the build record.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+<html>
+<head>
+<title>My first web page</title>
+</head>
+<body>
+<center>
+<h1>Welcome to KLU!!!</h1>
+</center>
+</body>
+</html>
